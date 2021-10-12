@@ -37,6 +37,7 @@ document.getElementById('form-btn-2').addEventListener('click', () => {
 document.getElementById('form-btn-3').addEventListener('click', () => {
   // Update progress bar
   $('#progress-3').removeClass('active').addClass('done');
+  $('#progress-3-label').html('&#10003;')
 
   // update form
   $('#form-content').html('<h1 class="form-placeholder">Thank you!</h1>')
