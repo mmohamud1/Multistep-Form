@@ -123,6 +123,12 @@
     padding: 3px 15px;
     border-radius: 25px;
     cursor: pointer;
+    font-size: 25px;
+}
+
+.form-btn:hover {
+    background-color: #0e3e4c;
+    color: #fff;
 }
 
 .form-btn-2 {
