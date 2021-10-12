@@ -31,3 +31,9 @@ document.getElementById('form-btn-2').addEventListener('click', () => {
   $('#form-btn-3').show()
 
 })
+
+
+// add click functionilty to button for form 2
+document.getElementById('form-btn-3').addEventListener('click', () => {
+
+})
