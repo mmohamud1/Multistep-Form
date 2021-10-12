@@ -35,7 +35,8 @@ document.getElementById('form-btn-2').addEventListener('click', () => {
 
 // add click functionilty to button for form 2
 document.getElementById('form-btn-3').addEventListener('click', () => {
-
+  // Update progress bar
+  $('#progress-3').removeClass('active').addClass('done');
 
   // update form
   $('#form-content').html('<h1 class="form-placeholder">Thank you!</h1>')
