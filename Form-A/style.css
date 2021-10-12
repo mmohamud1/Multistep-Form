@@ -22,12 +22,12 @@
 /* Form Progress */
 
 .progress {
-    width: auto !important;
-    height: 100% !important;
+    width: auto;
+    height: 100%;
     margin: 20px auto;
     text-align: center;
-    display: block !important;
-    background-color: transparent !important;
+    display: block;
+    background-color: transparent;
 }
 
 .progress .circle,
@@ -122,6 +122,7 @@
     border: 1px solid #0e3e4c;
     padding: 3px 15px;
     border-radius: 25px;
+    cursor: pointer;
 }
 
 .form-btn-2 {
