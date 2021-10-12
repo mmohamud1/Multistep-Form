@@ -1,0 +1,19 @@
+{
+  "name": "multistep-form",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmohamud1/Multistep-Form.git"
+  },
+  "author": "Mohamed Mohamud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmohamud1/Multistep-Form/issues"
+  },
+  "homepage": "https://github.com/mmohamud1/Multistep-Form#readme",
+  "description": ""
+}
